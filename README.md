@@ -1,6 +1,6 @@
 # ⚡ JavaScript Learning Journey
 
-Welcome to my **JavaScript Learning Journey** repository.
+Welcome to my **JavaScript Learning Journey** repository. 
 
 This repository documents my progress while learning JavaScript, covering fundamental concepts, DOM manipulation, and building small interactive projects.
 
